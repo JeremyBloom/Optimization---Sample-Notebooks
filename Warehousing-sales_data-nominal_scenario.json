@@ -1,0 +1,1192 @@
+{
+  "demands" : [ {
+    "store" : "Malden, MA",
+    "scenarioId" : "Nominal",
+    "amount" : 104.0
+  }, {
+    "store" : "Medford, MA",
+    "scenarioId" : "Nominal",
+    "amount" : 50.0
+  }, {
+    "store" : "Quincy, MA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Brockton, MA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Bristol, CT",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Manchester, CT",
+    "scenarioId" : "Nominal",
+    "amount" : 80.0
+  }, {
+    "store" : "Milford, CT",
+    "scenarioId" : "Nominal",
+    "amount" : 103.0
+  }, {
+    "store" : "New Haven, CT",
+    "scenarioId" : "Nominal",
+    "amount" : 80.0
+  }, {
+    "store" : "Stamford, CT",
+    "scenarioId" : "Nominal",
+    "amount" : 73.0
+  }, {
+    "store" : "Bayonne, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 58.0
+  }, {
+    "store" : "Passaic, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 64.0
+  }, {
+    "store" : "Union City, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 34.0
+  }, {
+    "store" : "West New York, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 66.0
+  }, {
+    "store" : "Irvington, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Jersey City, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 29.0
+  }, {
+    "store" : "Wayne, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Lakewood, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 102.0
+  }, {
+    "store" : "Toms River, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Piscataway, NJ",
+    "scenarioId" : "Nominal",
+    "amount" : 51.0
+  }, {
+    "store" : "New York, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 53.0
+  }, {
+    "store" : "Staten Island, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 41.0
+  }, {
+    "store" : "Bronx, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 40.0
+  }, {
+    "store" : "Yonkers, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 29.0
+  }, {
+    "store" : "Brooklyn, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Flushing, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 37.0
+  }, {
+    "store" : "Corona, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 72.0
+  }, {
+    "store" : "Jackson Heights, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 77.0
+  }, {
+    "store" : "Elmhurst, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 123.0
+  }, {
+    "store" : "Forest Hills, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 33.0
+  }, {
+    "store" : "Woodside, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 113.0
+  }, {
+    "store" : "Ridgewood, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 179.0
+  }, {
+    "store" : "Jamaica, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Hempstead, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Far Rockaway, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 113.0
+  }, {
+    "store" : "Bay Shore, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Huntington Station, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 87.0
+  }, {
+    "store" : "Massapequa, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 54.0
+  }, {
+    "store" : "Troy, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Newburgh, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Buffalo, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 45.0
+  }, {
+    "store" : "Ithaca, NY",
+    "scenarioId" : "Nominal",
+    "amount" : 94.0
+  }, {
+    "store" : "Greensburg, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 94.0
+  }, {
+    "store" : "Carlisle, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 53.0
+  }, {
+    "store" : "Mechanicsburg, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 87.0
+  }, {
+    "store" : "York, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Lancaster, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 51.0
+  }, {
+    "store" : "Allentown, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 60.0
+  }, {
+    "store" : "Bensalem, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Morrisville, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Philadelphia, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 149.0
+  }, {
+    "store" : "West Chester, PA",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Newark, DE",
+    "scenarioId" : "Nominal",
+    "amount" : 84.0
+  }, {
+    "store" : "New Castle, DE",
+    "scenarioId" : "Nominal",
+    "amount" : 46.0
+  }, {
+    "store" : "Washington, DC",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Fort Washington, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 87.0
+  }, {
+    "store" : "Potomac, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Gaithersburg, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Silver Spring, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 114.0
+  }, {
+    "store" : "Pasadena, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 96.0
+  }, {
+    "store" : "Baltimore, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 32.0
+  }, {
+    "store" : "Parkville, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 33.0
+  }, {
+    "store" : "Hagerstown, MD",
+    "scenarioId" : "Nominal",
+    "amount" : 69.0
+  }, {
+    "store" : "Annandale, VA",
+    "scenarioId" : "Nominal",
+    "amount" : 96.0
+  }, {
+    "store" : "Dale City, VA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Stafford, VA",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Chesapeake, VA",
+    "scenarioId" : "Nominal",
+    "amount" : 57.0
+  }, {
+    "store" : "Virginia Beach, VA",
+    "scenarioId" : "Nominal",
+    "amount" : 36.0
+  }, {
+    "store" : "Goose Creek, SC",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Decatur, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 55.0
+  }, {
+    "store" : "Lawrenceville, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 105.0
+  }, {
+    "store" : "Lilburn, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 55.0
+  }, {
+    "store" : "Lithonia, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 71.0
+  }, {
+    "store" : "Marietta, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 33.0
+  }, {
+    "store" : "Duluth, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 72.0
+  }, {
+    "store" : "Atlanta, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 77.0
+  }, {
+    "store" : "Augusta, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Martinez, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Columbus, GA",
+    "scenarioId" : "Nominal",
+    "amount" : 89.0
+  }, {
+    "store" : "Orange Park, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Jacksonville, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Winter Park, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 50.0
+  }, {
+    "store" : "Hialeah, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 37.0
+  }, {
+    "store" : "Hollywood, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "Lighthouse Point, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Pompano Beach, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Perrine, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 29.0
+  }, {
+    "store" : "Miami, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Fort Lauderdale, FL",
+    "scenarioId" : "Nominal",
+    "amount" : 94.0
+  }, {
+    "store" : "Clarksville, TN",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Nashville, TN",
+    "scenarioId" : "Nominal",
+    "amount" : 86.0
+  }, {
+    "store" : "Memphis, TN",
+    "scenarioId" : "Nominal",
+    "amount" : 29.0
+  }, {
+    "store" : "Newark, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Westerville, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 50.0
+  }, {
+    "store" : "Lancaster, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 53.0
+  }, {
+    "store" : "Marion, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 73.0
+  }, {
+    "store" : "Zanesville, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 112.0
+  }, {
+    "store" : "Elyria, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 102.0
+  }, {
+    "store" : "Mentor, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Painesville, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 74.0
+  }, {
+    "store" : "Lakewood, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Cleveland, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 66.0
+  }, {
+    "store" : "Hamilton, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 47.0
+  }, {
+    "store" : "Huber Heights, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Chillicothe, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Findlay, OH",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Indianapolis, IN",
+    "scenarioId" : "Nominal",
+    "amount" : 47.0
+  }, {
+    "store" : "West Lafayette, IN",
+    "scenarioId" : "Nominal",
+    "amount" : 88.0
+  }, {
+    "store" : "Roseville, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Ann Arbor, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 82.0
+  }, {
+    "store" : "Taylor, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 106.0
+  }, {
+    "store" : "Westland, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 77.0
+  }, {
+    "store" : "Canton, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 79.0
+  }, {
+    "store" : "Ypsilanti, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Detroit, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Wyoming, MI",
+    "scenarioId" : "Nominal",
+    "amount" : 60.0
+  }, {
+    "store" : "Apple Valley, MN",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Arlington Heights, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 113.0
+  }, {
+    "store" : "Des Plaines, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 78.0
+  }, {
+    "store" : "Mount Prospect, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Palatine, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Waukegan, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 29.0
+  }, {
+    "store" : "Bartlett, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 101.0
+  }, {
+    "store" : "Elgin, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Lombard, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Wheaton, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 58.0
+  }, {
+    "store" : "Berwyn, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Chicago Heights, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 55.0
+  }, {
+    "store" : "Shorewood, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 53.0
+  }, {
+    "store" : "Lockport, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Oak Lawn, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Tinley Park, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 104.0
+  }, {
+    "store" : "Aurora, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Chicago, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 51.0
+  }, {
+    "store" : "Cicero, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 91.0
+  }, {
+    "store" : "Quincy, IL",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Ballwin, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Florissant, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 50.0
+  }, {
+    "store" : "Saint Louis, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 99.0
+  }, {
+    "store" : "Jennings, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "O Fallon, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Saint Peters, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 36.0
+  }, {
+    "store" : "Springfield, MO",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Olathe, KS",
+    "scenarioId" : "Nominal",
+    "amount" : 82.0
+  }, {
+    "store" : "Kenner, LA",
+    "scenarioId" : "Nominal",
+    "amount" : 51.0
+  }, {
+    "store" : "Marrero, LA",
+    "scenarioId" : "Nominal",
+    "amount" : 55.0
+  }, {
+    "store" : "New Orleans, LA",
+    "scenarioId" : "Nominal",
+    "amount" : 75.0
+  }, {
+    "store" : "Conway, AR",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Plano, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Grand Prairie, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Mesquite, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Dallas, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 95.0
+  }, {
+    "store" : "North Richland Hills, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 83.0
+  }, {
+    "store" : "Houston, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "Sugar Land, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 82.0
+  }, {
+    "store" : "San Antonio, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "McAllen, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 77.0
+  }, {
+    "store" : "Brownsville, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 161.0
+  }, {
+    "store" : "Edinburg, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 35.0
+  }, {
+    "store" : "Harlingen, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 66.0
+  }, {
+    "store" : "Mission, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 159.0
+  }, {
+    "store" : "Pharr, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 64.0
+  }, {
+    "store" : "Weslaco, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 49.0
+  }, {
+    "store" : "San Marcos, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 102.0
+  }, {
+    "store" : "Austin, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "El Paso, TX",
+    "scenarioId" : "Nominal",
+    "amount" : 119.0
+  }, {
+    "store" : "Aurora, CO",
+    "scenarioId" : "Nominal",
+    "amount" : 56.0
+  }, {
+    "store" : "Littleton, CO",
+    "scenarioId" : "Nominal",
+    "amount" : 110.0
+  }, {
+    "store" : "Denver, CO",
+    "scenarioId" : "Nominal",
+    "amount" : 96.0
+  }, {
+    "store" : "Longmont, CO",
+    "scenarioId" : "Nominal",
+    "amount" : 81.0
+  }, {
+    "store" : "Colorado Springs, CO",
+    "scenarioId" : "Nominal",
+    "amount" : 74.0
+  }, {
+    "store" : "Kearns, UT",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "Provo, UT",
+    "scenarioId" : "Nominal",
+    "amount" : 70.0
+  }, {
+    "store" : "Phoenix, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 34.0
+  }, {
+    "store" : "Mesa, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 78.0
+  }, {
+    "store" : "Chandler, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 29.0
+  }, {
+    "store" : "Scottsdale, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 70.0
+  }, {
+    "store" : "Tempe, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 47.0
+  }, {
+    "store" : "Glendale, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 87.0
+  }, {
+    "store" : "Yuma, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Tucson, AZ",
+    "scenarioId" : "Nominal",
+    "amount" : 62.0
+  }, {
+    "store" : "Albuquerque, NM",
+    "scenarioId" : "Nominal",
+    "amount" : 73.0
+  }, {
+    "store" : "Rio Rancho, NM",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Santa Fe, NM",
+    "scenarioId" : "Nominal",
+    "amount" : 88.0
+  }, {
+    "store" : "Roswell, NM",
+    "scenarioId" : "Nominal",
+    "amount" : 53.0
+  }, {
+    "store" : "Henderson, NV",
+    "scenarioId" : "Nominal",
+    "amount" : 115.0
+  }, {
+    "store" : "Las Vegas, NV",
+    "scenarioId" : "Nominal",
+    "amount" : 84.0
+  }, {
+    "store" : "Los Angeles, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 90.0
+  }, {
+    "store" : "Bell, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 103.0
+  }, {
+    "store" : "Compton, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Hawthorne, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 122.0
+  }, {
+    "store" : "Huntington Park, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 157.0
+  }, {
+    "store" : "Lynwood, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 32.0
+  }, {
+    "store" : "South Gate, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 46.0
+  }, {
+    "store" : "Cypress, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "La Habra, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Montebello, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 35.0
+  }, {
+    "store" : "Norwalk, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 156.0
+  }, {
+    "store" : "Pico Rivera, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Cerritos, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 60.0
+  }, {
+    "store" : "Bellflower, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 32.0
+  }, {
+    "store" : "Paramount, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "San Pedro, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 61.0
+  }, {
+    "store" : "Wilmington, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 66.0
+  }, {
+    "store" : "Carson, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Long Beach, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 118.0
+  }, {
+    "store" : "Pacoima, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 47.0
+  }, {
+    "store" : "Reseda, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Sylmar, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 36.0
+  }, {
+    "store" : "North Hills, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Granada Hills, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 100.0
+  }, {
+    "store" : "Canyon Country, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Panorama City, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "North Hollywood, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Azusa, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 76.0
+  }, {
+    "store" : "Baldwin Park, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 39.0
+  }, {
+    "store" : "Chino Hills, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 64.0
+  }, {
+    "store" : "Chino, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 111.0
+  }, {
+    "store" : "Rancho Cucamonga, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 79.0
+  }, {
+    "store" : "El Monte, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 61.0
+  }, {
+    "store" : "La Puente, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 81.0
+  }, {
+    "store" : "Hacienda Heights, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 90.0
+  }, {
+    "store" : "Ontario, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 78.0
+  }, {
+    "store" : "Pomona, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 124.0
+  }, {
+    "store" : "Rosemead, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 94.0
+  }, {
+    "store" : "Alhambra, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 49.0
+  }, {
+    "store" : "Chula Vista, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 146.0
+  }, {
+    "store" : "National City, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 50.0
+  }, {
+    "store" : "Spring Valley, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 60.0
+  }, {
+    "store" : "El Cajon, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 124.0
+  }, {
+    "store" : "Oceanside, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 81.0
+  }, {
+    "store" : "San Marcos, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Santee, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Vista, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "San Diego, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 132.0
+  }, {
+    "store" : "Fontana, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 108.0
+  }, {
+    "store" : "Hesperia, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 74.0
+  }, {
+    "store" : "Rialto, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 33.0
+  }, {
+    "store" : "Victorville, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 120.0
+  }, {
+    "store" : "San Bernardino, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 69.0
+  }, {
+    "store" : "Riverside, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 126.0
+  }, {
+    "store" : "Rubidoux, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "Moreno Valley, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 96.0
+  }, {
+    "store" : "Costa Mesa, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 57.0
+  }, {
+    "store" : "Lake Forest, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 51.0
+  }, {
+    "store" : "Huntington Beach, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "Laguna Niguel, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 60.0
+  }, {
+    "store" : "Westminster, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 129.0
+  }, {
+    "store" : "Santa Ana, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 115.0
+  }, {
+    "store" : "Fountain Valley, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Tustin, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 47.0
+  }, {
+    "store" : "Anaheim, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 113.0
+  }, {
+    "store" : "Placentia, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Corona, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Oxnard, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 36.0
+  }, {
+    "store" : "Simi Valley, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "Porterville, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Tulare, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 93.0
+  }, {
+    "store" : "Bakersfield, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Lancaster, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 49.0
+  }, {
+    "store" : "Palmdale, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 137.0
+  }, {
+    "store" : "Fresno, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 27.0
+  }, {
+    "store" : "Daly City, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "South San Francisco, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Sunnyvale, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 30.0
+  }, {
+    "store" : "San Francisco, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 37.0
+  }, {
+    "store" : "Alameda, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 100.0
+  }, {
+    "store" : "Antioch, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 117.0
+  }, {
+    "store" : "Fairfield, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 76.0
+  }, {
+    "store" : "Fremont, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 62.0
+  }, {
+    "store" : "Hayward, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 58.0
+  }, {
+    "store" : "Livermore, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 154.0
+  }, {
+    "store" : "Martinez, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Napa, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 84.0
+  }, {
+    "store" : "Pittsburg, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 37.0
+  }, {
+    "store" : "Union City, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 31.0
+  }, {
+    "store" : "Oakland, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 53.0
+  }, {
+    "store" : "San Pablo, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 24.0
+  }, {
+    "store" : "Cupertino, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 26.0
+  }, {
+    "store" : "Milpitas, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 89.0
+  }, {
+    "store" : "Santa Clara, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 111.0
+  }, {
+    "store" : "Watsonville, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 61.0
+  }, {
+    "store" : "San Jose, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 134.0
+  }, {
+    "store" : "Stockton, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 113.0
+  }, {
+    "store" : "Merced, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 101.0
+  }, {
+    "store" : "Modesto, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 25.0
+  }, {
+    "store" : "Tracy, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Carmichael, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Davis, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 81.0
+  }, {
+    "store" : "Vacaville, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 28.0
+  }, {
+    "store" : "Sacramento, CA",
+    "scenarioId" : "Nominal",
+    "amount" : 103.0
+  }, {
+    "store" : "Beaverton, OR",
+    "scenarioId" : "Nominal",
+    "amount" : 69.0
+  }, {
+    "store" : "Salem, OR",
+    "scenarioId" : "Nominal",
+    "amount" : 105.0
+  }, {
+    "store" : "Albany, OR",
+    "scenarioId" : "Nominal",
+    "amount" : 52.0
+  }, {
+    "store" : "Kent, WA",
+    "scenarioId" : "Nominal",
+    "amount" : 84.0
+  }, {
+    "store" : "Redmond, WA",
+    "scenarioId" : "Nominal",
+    "amount" : 99.0
+  }, {
+    "store" : "Bellingham, WA",
+    "scenarioId" : "Nominal",
+    "amount" : 79.0
+  } ],
+  "scenarios" : [ {
+    "id" : "Nominal",
+    "totalDemand" : 18065.0,
+    "periods" : 1.0
+    } ]  
+}
